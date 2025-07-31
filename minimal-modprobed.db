@@ -188,6 +188,7 @@ ext2
 ext4
 f2fs
 failover
+fam15h_power
 fan
 fat
 fbdev
@@ -527,6 +528,7 @@ r8153_ecm
 r8168
 r8169
 radeon
+raid0
 raid1
 raid6_pq
 rapl
@@ -564,6 +566,7 @@ rtw88_8822c
 rtw88_8822ce
 rtw88_core
 rtw88_pci
+ryzen_smu
 sch_cake
 sch_fq_codel
 sch_ingress
