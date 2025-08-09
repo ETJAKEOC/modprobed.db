@@ -47,4 +47,4 @@ Once you've built up some history:
 
 `modprobed-db dump > ~/Desktop/$(hostname)-TKT-modules-list.txt`
 
-Then send us the '.txt' file via a pull request. Add system details if you can (laptop/desktop, CPU/GPU, distro)—that context helps!
+Then send us the '.txt' file via an issue/pull request. Add system details if you can (laptop/desktop, CPU/GPU, distro)—that context helps!
